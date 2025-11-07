@@ -38,7 +38,7 @@ cd Swarm-Lens-Assesment-task
 
 2. **Install dependencies**
 ```bash
-pip install -e .
+uv sync
 ```
 
 3. **Configure environment variables**
